@@ -1,4 +1,90 @@
-<?php include 'header.php'; ?>
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Unique Services - One Stop Shop for all Security Products</title>
+    <meta name="description" content="In Hubbali, Uttar Karnataka, under the brand of Unique Services we provide variety of security solutions for schools, gardens, shops, hostels, hospitals, etc. We even provide services to all parts of Dharwad, Belgaum, Bagalkot, Bellary, Hospet, etc.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- favicon
+    ============================================ -->
+    <!--<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png"/>-->
+    <!-- all css here -->
+    <!-- bootstrap v3.3.6 css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- animate css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- jquery-ui.min css -->
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <!-- nivo slider CSS
+    ============================================ -->
+    <link rel="stylesheet" href="lib/custom-slider/css/nivo-slider.css" type="text/css" />
+    <link rel="stylesheet" href="lib/custom-slider/css/preview.css" type="text/css" media="screen" />
+    <!-- meanmenu css -->
+    <link rel="stylesheet" href="css/meanmenu.min.css">
+    <!-- Owl Caousel CSS -->
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css">
+    <!-- font-awesome css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- flaticon css -->
+    <link rel="stylesheet" href="css/flaticon.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="style.css">
+    <!-- responsive css -->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- modernizr css -->
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+	<style>
+	.header-area .main-menu-area ul li.active {
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+}
+.home-2 .header-area .main-menu-area ul li a {
+    color: #000000;
+    padding: 0px 10px 0px 25px;
+    /* margin-top: 7px; */
+}
+.header-area .main-menu-area ul li {
+    display: inline-block;
+    position: relative;
+
+}
+.top-bar-dark {
+    background: #2e363a;
+}
+.top-bar {
+    width: 100%;
+    clear: both;
+    height: 50px;
+    padding: 12px 0;
+}
+ul.social li {
+    display: inline-block;
+}
+.top-bar .right-top-bar {
+    float: right;
+}
+ul.social li a {
+    width: 26px;
+    height: 26px;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    display: block;
+    line-height: 26px;
+    text-align: center;
+    font-size: 12px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    margin-left: 5px;
+    -webkit-transition: all 0.6s ease 0s;
+    transition: all 0.6s ease 0s;
+}
+	</style>
+</head>
+
+<?php include 'menu.php'; ?>
+    <!--  Header Area End Here -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script>
@@ -10,16 +96,16 @@
     <div class="slider-area home-one-slider">
         <div class="bend niceties preview-2">
             <div id="ensign-nivoslider" class="slides">
-                <img src="img/acap.png" alt="" title="#slider-direction-1" />
-                <img src="img/slider1.png" alt="" title="#slider-direction-2" />
-				 <img src="img/sliderr.png" alt="" title="#slider-direction-3" />
+                <img src="img/biometric-solution.png" alt="" title="#slider-direction-1" />
+                <img src="img/security-hdr-camera.png" alt="" title="#slider-direction-2" />
+				 <img src="img/security-surveillance.png" alt="" title="#slider-direction-3" />
             </div>
             <!-- direction 1 -->
             <div id="slider-direction-1" class="t-cn slider-direction">
                 <div class="slider-content t-cn s-tb slider-1">
                     <div class="title-container s-tb-c title-compress">
                         <div class="medium-text">Unique Services is now providing you the best Security Systems</div>
-                        <div class="title1">Unique Services</div>
+                        <div class="title1">Unique Security Solutions</div>
                         <p style="font-size:large;">With 2 decades of expertise, we provide you the best in class products & services at competitive prices</p>
 					</div>
                 </div>
@@ -28,9 +114,9 @@
             <div id="slider-direction-2" class="t-cn slider-direction">
                 <div class="slider-content t-cn s-tb slider-2">
                     <div class="title-container s-tb-c title-compress">
-                        <div class="medium-text">Unique Services is now providing you the best CAMERAS</div>
-                        <div class="title1">Unique Services</div>
-                        <p style="font-size:large;">With 2 decades of expertise, we provide you the best in class products & services at competitive prices</p>
+                        <div class="medium-text">Site Survey and Identifications for better solutions</div>
+                        <div class="title1">Our Expertise</div>
+                        <p style="font-size:large;">Its essential to carry out a site survey before specifying the equipment required for a System installation</p>
 						</div>
                 </div>
             </div>
@@ -38,8 +124,8 @@
                 <div class="slider-content t-cn s-tb slider-1">
                     <div class="title-container s-tb-c title-compress">
                         <div class="medium-text">Unique Services is now providing you the best EPABX/Intercom</div>
-                        <div class="title1">Unique Services</div>
-                        <p style="font-size:large;">With 2 decades of expertise, we provide you the best in class products & services at competitive prices</p>
+                        <div class="title1">Telecom Services</div>
+                        <p style="font-size:large;">We want to be there for you—whether you’re on the road or off so we are available for you anytime</p>
 					</div>
                 </div>
             </div>
@@ -69,64 +155,49 @@
             <div class="slider-bottom home3-slider-bottom">
                 <div class="section-styling-area">
                         <h2>Our Products</h2>
-                        <p><img src="img/img1-1.png" alt="img"></p>
+                        <p><img src="img/surveillance-camera.png" alt="Security Surveillance Camera Products"></p>
                     </div>
                 <div class="rc-carousel total-business" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="2" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="2" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="3" data-r-medium-nav="true" data-r-medium-dots="false">
                     <div class="home3-slider-bottom">
                         <div class="single-service">
-							 <h3 style="text-align:center;"><a href="products.php">Analog Cameras</a></h3>
-                            <a href="products.php"><img src="img/img.png" alt="analog"/></a>
-                           
-                            
-                            <p class="text-justify">Analog Security Camera (CVBS) CCTV cameras are a type of security camera that uses an analog video signal to capture video surveillance footage.<a href="#" style="display:inline;"> &nbsp;Read more>></a></p>
-                        
+							 <h3 style="text-align:center;"><a href="security-camera-best-brands.php">Analog Camera</a></h3>
+                            <a href="security-camera-best-brands.php"><img src="img/analog-security-camera.png" alt="Analog Security Camera"/></a>
+                            <p class="text-justify">Analog Security Camera (CVBS) CCTV cameras are a type of security camera that uses an analog video signal to capture video surveillance footage.<a href="security-camera-best-brands.php" style="display:inline;"> &nbsp;Read more >></a></p>
 							</div>
-								
                     </div>
                     <div>
                         <div class="single-service">
-                               <h3 style="text-align:center;"><a href="products.php">Network Camera</a></h3>
-							<a href="products.php"><img src="img/camera.jpg" alt="wireless-products"/></a>
-                         
-                            <p class="text-justify">Network or IP Camera is a type of digital video camera that receives control data and sends image data via the Internet.<a href="#" style="display:inline;"> &nbsp;Read more>></a></p>
+                               <h3 style="text-align:center;"><a href="security-camera-best-brands.php">Network Camera</a></h3>
+							<a href="security-camera-best-brands.php"><img src="img/network-ip-camera.jpg" alt="Network IP Camera"/></a>
+                            <p class="text-justify">Network or IP Camera is a type of digital video camera that receives control data and sends image data via the Internet.<a href="security-camera-best-brands.php" style="display:inline;"> &nbsp;Read more >></a></p>
                         </div>
                     </div>
                     <div>
                         <div class="single-service">
-                             <h3 style="text-align:center;"><a href="products.php">DVR/NVR Camera</a></h3>
-							<a href="products.php"><img src="img/immg.png" alt="software-development"/></a>
-                           
-                            <p class="text-justify"> It  is an electronic device that records video in a digital format to a disk drive, USB flash drive or other local or networked mass storage device.<a href="#" style="display:inline;"> &nbsp;Read more>></a></p>
+                             <h3 style="text-align:center;"><a href="security-camera-best-brands.php">DVR/NVR Camera</a></h3>
+							<a href="security-camera-best-brands.php"><img src="img/DVR-Camera.png" alt="DVR or NVR Camera"/></a>
+                            <p class="text-justify"> It  is an electronic device that records video in a digital format to a disk drive, USB flash drive or other local or networked mass storage device.<a href="security-camera-best-brands.php" style="display:inline;"> &nbsp;Read more >></a></p>
                         </div>
                     </div>
-                   
                     <div>
                         <div class="single-service">
-                             <h3 style="text-align:center;"><a href="products.php">Access Control</a></h3>
-							<a href="products.php"><img src="img/access.png" alt="technical-consulting"/></a>
-                           
-                            <p class="text-justify">  In the fields of physical security and information security, access control (AC) is the selective restriction of access to a place or other resource.<a href="#" style="display:inline;"> &nbsp;Read more>></a></p>
+                             <h3 style="text-align:center;"><a href="security-camera-best-brands.php">Access Control</a></h3>
+							<a href="security-camera-best-brands.php"><img src="img/biometric-access.png" alt="Biometric Access Control systems"/></a>
+                            <p class="text-justify">  In the fields of physical security and information security, access control (AC) is the selective restriction of access to a place or other resource.<a href="security-camera-best-brands.php" style="display:inline;"> &nbsp;Read more >></a></p>
                         </div>
                     </div>
 					 <div class="home3-slider-bottom">
                         <div class="single-service">
-							 <h3 style="text-align:center;"><a href="products.php">Fire and Burglar Alarm</a></h3>
-                            <a href="products.php"><img src="img/fba.png" alt="analog"/></a>
-                           
-                            
-                            <p class="text-justify">A security alarm is a system designed to detect intrusion – unauthorized entry – into a building or other area.<a href="#" style="display:inline;"> &nbsp;Read more>></a></p>
-                        
+							 <h3 style="text-align:center;"><a href="security-camera-best-brands.php">Fire and Burglar Alarm</a></h3>
+                            <a href="security-camera-best-brands.php"><img src="img/Fire-Burglar-Alarms.png" alt="Fire and Burglar Alarms"/></a>
+                            <p class="text-justify">A security alarm is a system designed to detect intrusion – unauthorized entry – into a building or other area.<a href="security-camera-best-brands.php" style="display:inline;"> &nbsp;Read more >></a></p>
 							</div>
-								
                     </div>
             </div>
         </div>
     </div>
     </div>
-   
-	
-	
-	
+
 	<style>
 	.solution-box .solution-single {
     background: rgba(255, 255, 255, 0.5);
@@ -141,7 +212,7 @@
 	.solution-wrp {
     /* padding: 50px 0px 20px; */
     padding: 30px 0px 0px;
-    background: #e5e5e5 url(../images/solution-offer-bg.png) no-repeat;
+    background: #e5e5e5;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -215,9 +286,9 @@
 .solution-box .solution-single:hover .solutions-transportation-icon {
     background-position: -104px 30px;
 }
-.solution-box .solution-single{	
-    transition-property: all;  
-    transition-duration: .6s;   
+.solution-box .solution-single{
+    transition-property: all;
+    transition-duration: .6s;
     transition-timing-function: ease;
 }
 .homepage-contact-faq-area {
@@ -228,35 +299,35 @@
 if($_POST)
 {
 //require('constant.php');
-    
+
     $user_name      = filter_var($_POST["name"], FILTER_SANITIZE_STRING);
     $phone      = filter_var($_POST["phone"], FILTER_SANITIZE_STRING);
     $user_email     = filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
     $user_message   = filter_var($_POST["messages"], FILTER_SANITIZE_STRING);
-    
+
     if(empty($user_name)) {
-		$empty[] = "<b>Name</b>";		
+		$empty[] = "<b>Name</b>";
 	}
 	if(empty($user_email)) {
 		$empty[] = "<b>Email</b>";
 	}
-	
+
 	if(!empty($empty)) {
 		$output = json_encode(array('type'=>'error', 'text' => implode(", ",$empty) . ' Required!'));
         die($output);
 	}
-	
+
 	if(!filter_var($user_email, FILTER_VALIDATE_EMAIL)){ //email validation
 	    $output = json_encode(array('type'=>'error', 'text' => '<b>'.$user_email.'</b> is an invalid Email, please correct it.'));
 		die($output);
 	}
-	
-	
-	
+
+
+
 	$toEmail = "prnka.08@gmail.com";
-	$message .="Full name:".$user_name."\n\n";	
-	$message .="Phone  No:".$phone."\n\n";	
-	$message .="Email:".$user_email."\n\n";		
+	$message .="Full name:".$user_name."\n\n";
+	$message .="Phone  No:".$phone."\n\n";
+	$message .="Email:".$user_email."\n\n";
 	$message .="Message:".$user_message."\n\n";
 	$mailHeaders = "From: " . $user_name . "<" . $user_email . ">\r\n";
 // 	if (mail($toEmail, "Contact Mail", $message, $mailHeaders)) {
@@ -268,7 +339,7 @@ if($_POST)
 // 	}
 }
 ?>
-	
+
 	<div class="solution-wrp parallaxbg" style="background-position: 50% 488px;">
     <div class="container">
        <div class="section-styling-area">
@@ -283,7 +354,7 @@ if($_POST)
               <div class="dscb">
                 <h4>Banking</h4>
                 <p>Ranging from ATM Surveillance to Branch Surveillance to Cash Van Surveillance to Central Control.</p>
-               <!-- <a href="" class="exp-btn">Read more..</a>--> </div>
+              </div>
             </div>
           </div>
           <div class=" col-lg-4 col-md-6 col-sm-6 col-xs-12">
@@ -291,7 +362,7 @@ if($_POST)
               <div class="icon-pic mortarboard1"></div>
               <div class="dscb">
                 <h4>Education</h4>
-                <p>With school and university 
+                <p>With school and university
                   managers becoming accountable for campus security, surveillance.</p>
                  </div>
             </div>
@@ -305,8 +376,6 @@ if($_POST)
                 </div>
             </div>
           </div>
-         
-          
           <div class=" col-lg-4 col-md-6 col-sm-6 col-xs-12">
             <div class="solution-single">
              <div class="icon-pic shopping-cart1"></div>
@@ -334,7 +403,6 @@ if($_POST)
                 </div>
             </div>
           </div>
-		  
 		  <div class=" col-lg-4 col-md-6 col-sm-6 col-xs-12">
             <div class="solution-single">
               <div class="icon-pic residance"></div>
@@ -344,7 +412,6 @@ if($_POST)
 			</div>
             </div>
           </div>
-		  
 		  <div class=" col-lg-4 col-md-6 col-sm-6 col-xs-12">
             <div class="solution-single">
               <div class="icon-pic office"></div>
@@ -354,7 +421,6 @@ if($_POST)
 			</div>
             </div>
           </div>
-		  
 		  <div class=" col-lg-4 col-md-6 col-sm-6 col-xs-12">
             <div class="solution-single">
               <div class="icon-pic commertial"></div>
@@ -364,45 +430,13 @@ if($_POST)
 			</div>
             </div>
           </div>
-		  
-		  
         </div>
       </div>
     </div>
   </div>
-	
-	
-	 <div class="client-logo-area">
-        <div class="container">
-            <div class="rc-carousel client-logo" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="3" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="3" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="5" data-r-medium-nav="true" data-r-medium-dots="false">
-                <div class="single-logo">
-                    <a href="#"><img src="img/c1.png" alt="hik"></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/c2.png" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/c3.png" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/c4.png" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/c5.png" alt=""></a>
-                </div>
-                
-                <div class="single-logo">
-                    <a href="#"><img src="img/reall1.png" alt=""></a>
-                </div>
-                <!--<div class="single-logo">
-                    <a href="#"><img src="img/c2.png" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/c3.png" alt=""></a>
-                </div>-->
-            </div>
-        </div>
-    </div>
+
+	<?php include 'our_clients.php'; ?>
+
 	<div class="homepage-contact-faq-area">
         <div class="container">
             <div class="row">
@@ -413,10 +447,10 @@ if($_POST)
                             <div class="panel panel-default">
                                 <div class="panel-heading active">
                                     <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                        01. How can I get a quote?
-                      </a>
-                    </h4>
+									  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+										01. How can I get a quote?
+									  </a>
+									</h4>
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse in">
                                     <div class="panel-body text-justify">
@@ -427,10 +461,10 @@ if($_POST)
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                       02.  How do I know what cameras I need?
-                      </a>
-                    </h4>
+									  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+									   02.  How do I know what cameras I need?
+									  </a>
+									</h4>
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse">
                                     <div class="panel-body text-justify">
@@ -441,10 +475,10 @@ if($_POST)
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                        03.  How do I view the cameras remotely?
-                      </a>
-                    </h4>
+									  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+										03.  How do I view the cameras remotely?
+									  </a>
+									</h4>
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse">
                                     <div class="panel-body text-justify">
@@ -455,11 +489,6 @@ if($_POST)
                         </div>
                     </div>
                 </div>
-				
-				
-				
-				
-				
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="homepage-contact-faq-form">
                         <h2>Request A Call Back</h2>
@@ -511,7 +540,5 @@ if($_POST)
             </div>
         </div>
     </div>
-	
-   
-   
+
 <?php include 'footer.php'; ?>

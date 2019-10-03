@@ -35,10 +35,10 @@
                             <nav>
                                 <ul>
                                    
-                                    <li><a href="products.php">PRODUCTS</a></li>
-									<li><a href="services.php">SERVICES</a></li>
-									<li><a href="clients.php">CLIENTS</a></li>
-									<li><a href="contact.php">CONTACT US</a></li>
+                                    <li><a href="security-care-products.php">PRODUCTS</a></li>
+									<li><a href="security-care-services.php">SERVICES</a></li>
+									<li><a href="unique-services-clients.php">CLIENTS</a></li>
+									<li><a href="unique-services-contact.php">CONTACT US</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -48,11 +48,11 @@
                             <h3>Our Brands</h3>
                             <nav>
                                 <ul>
-                                    <li><a href="brands.php"><i class="icon-chevron-small-right"></i>HIKVISION</a></li>
-									<li><a href="brands.php"><i class="icon-chevron-small-right"></i>CP PLUS</a></li>
-									<li><a href="brands.php"><i class="icon-chevron-small-right"></i>PANASONIC</a></li>
-									<li><a href="brands.php"><i class="icon-chevron-small-right"></i>REALTIME</a></li>
-									<li><a href="brands.php"><i class="icon-chevron-small-right"></i>DAHUA TECHNOLOGY</a></li>
+                                    <li><a href="security-camera-best-brands.php"><i class="icon-chevron-small-right"></i>HIKVISION</a></li>
+									<li><a href="security-camera-best-brands.php"><i class="icon-chevron-small-right"></i>CP PLUS</a></li>
+									<li><a href="security-camera-best-brands.php"><i class="icon-chevron-small-right"></i>PANASONIC</a></li>
+									<li><a href="security-camera-best-brands.php"><i class="icon-chevron-small-right"></i>REALTIME</a></li>
+									<li><a href="security-camera-best-brands.php"><i class="icon-chevron-small-right"></i>DAHUA TECHNOLOGY</a></li>
 								
                                 </ul>
                             </nav>
@@ -78,12 +78,12 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="bottom:4px;">
                         <div class="copy-right-text">
-                            <p>2019 &copy; Copyright<b> Unique Services</b> | All Rights Reserved.</p>
+                            <p>2019 <b>Unique Services</b> </p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="top:7px;">
 						<div class="copy-right-text" style="text-align:right;">
-                           <span style="color:white;">Powered by :<a href="http://www.mindstuff.in/" target="/blank" style="color:#ec6b2f; cursor:pointer;"><i style="color:red;font-style: normal;"> Mind</i><i style="color:#0099cc;font-style: normal;">stuff</i> <i style="color:#CBC8C2;font-style: normal;">Innovations</i></a>
+                           <span style="color:white;">Powered by :<a href="http://www.khushinfotech.com/" target="/blank" style="color:#ec6b2f; cursor:pointer;"><i style="color:#47c500;font-style: normal;"> Khushi</i> <i style="color:#CBC8C2;font-style: normal;">Infotech</i></a>
                 </span>
                         </div>
                          <!-- <div class="footer-social-media">
