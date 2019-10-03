@@ -1,7 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="">
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Unique Services - We have variety of products for you to choose as per your requirements</title>
@@ -49,7 +48,7 @@
 .header-area .main-menu-area ul li {
     display: inline-block;
     position: relative;
-   
+
 }
 .top-bar-dark {
     background: #2e363a;
@@ -95,7 +94,7 @@ ul.social li a {
 </script>
 <style>
 .single-portfolio-page-area {
-   
+
 	border-bottom: 1px dotted lightgray;
 }
 
@@ -128,10 +127,10 @@ section {
     font-size: 13px;
 }
 h2{
- margin:0px;	
+ margin:0px;
 }
 </style>
-  <section class="bg-grey padding-top-30 padding-bottom-30 clearfix" style="background-image: url(img/banner4.png);">
+  <section class="bg-grey padding-top-30 padding-bottom-30 clearfix" style="background-image: url(img/security-products.png);">
       <div class="container">
           <div class="row">
             <div class="section-title">
@@ -152,26 +151,23 @@ h2{
             <div class="row">
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="Embedded-Product-Development" src="img/products/ana.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="Analog Camera Products" src="img/products/analog-camera-varieties.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <div class="single-portfolio-content-area">
                         <h3>Analog Camera</h3>
                         <div class="content">
-                            <p style="text-align:justify;">Cameras on an modern analog CCTV system send their video in the traditional base band format over coax or UTP cabling back to a digital video recorder (DVR).But, in the industry the term hybrid system typically refers to a system that has some IP cameras, and some analog cameras.</p>
-							
+                            <p style="text-align:justify;">Cameras on a modern analog CCTV system send their video in the traditional base band format over coax or UTP cabling back to a digital video recorder (DVR). But, in the industry the term hybrid system typically refers to a system that has some IP cameras, and some analog cameras.</p>
 							</div>
 					<div class="row">
-						
-						
                     </div>
 					</div>
                 </div>
             </div>
         </div>
     </div>
-	
+
 	<div class="single-portfolio-page-area">
         <div class="container">
             <div class="row">
@@ -198,7 +194,7 @@ h2{
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li>MicroSD Slot Local Storage</li>
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li>Dustproof and Waterproof IP66</li>
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li>Built-in Strobe Light and Siren for active Defence</li>
-							
+
                             </ul>
                         </div>
 						</div>
@@ -207,10 +203,10 @@ h2{
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="Wireless-Product-Development" src="img/products/ap2.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="Network Camera products" src="img/products/network-camera.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -219,7 +215,7 @@ h2{
             <div class="row">
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="Software-Firmware-Development" src="img/products/dvr1.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="DVR/NVR Products" src="img/products/digital-video-recorder.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
@@ -230,7 +226,7 @@ h2{
 							</p>
 							<p>NVR receives camera input over Ethernet Cable which can be connected through network/Poe suitable to reduce the cabling cost.</p>
 							</div>
-						
+
 					</div>
                 </div>
             </div>
@@ -243,17 +239,17 @@ h2{
                     <div class="single-portfolio-content-area">
                          <h3>Access Control</h3>
                         <div class="content">
-                            <p style="text-align:justify;"> Access control systems are the electronic systems that are designed to control through a network and they should have an access to a network. Access Control System recognizes authenticates and authorizes entry of a person to enter into the premise thereby giving complete protection ensuring security with the system.</p> 
+                            <p style="text-align:justify;"> Access control systems are the electronic systems that are designed to control through a network and they should have an access to a network. Access Control System recognizes authenticates and authorizes entry of a person to enter into the premise thereby giving complete protection ensuring security with the system.</p>
 							<p>In access control systems, users must present credentials before they can be granted access. In physical systems, these credentials may come in many forms, but credentials that can't be transferred provide the most security.</p>
 						</div>
-						
+
 					</div>
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="" src="img/products/ac1.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="Finger and Face Recognition Access Control Systems" src="img/products/face-finger-recognition-access-control.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
-                </div>                
+                </div>
             </div>
         </div>
     </div>
@@ -262,7 +258,7 @@ h2{
             <div class="row">
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="" src="img/products/vdp1.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="Video Door Phone Security" src="img/products/video-door-phone.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
@@ -285,7 +281,7 @@ h2{
                             <ul>
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li> CCL 206S EPABX System Intercom System (CLI + Welcome Message)</li>
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li> CCL 848S EPABX System/Intercom System with (CLI + Welcome Message)</li>
-                               
+
                             </ul>
                         </div>
 						</div>
@@ -295,25 +291,24 @@ h2{
             </div>
         </div>
     </div>
-	
+
 	<div class="single-portfolio-page-area">
         <div class="container">
             <div class="row">
 			<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <div class="single-portfolio-content-area">
-                      <br><br>    <h3>Fire and Burglar Alarm</h3>
+                      <br><br><h3>Fire and Burglar Alarm</h3>
                         <div class="content">
-                            <p style="text-align:justify;">A security alarm is a system designed to detect intrusion – unauthorized entry – into a building or other area. Security alarms are used in residential, commercial, industrial, and military properties for protection against burglary (theft) or property damage, as well as personal protection against intruders .</p> 
+                            <p style="text-align:justify;">A security alarm is a system designed to detect intrusion – unauthorized entry – into a building or other area. Security alarms are used in residential, commercial, industrial, and military properties for protection against burglary (theft) or property damage, as well as personal protection against intruders .</p>
 						</div>
-						
 					</div>
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="Wireless-Product-Development" src="img/products/f1.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="Security Alarm Products" src="img/products/security-alarm.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -322,7 +317,7 @@ h2{
             <div class="row">
                 <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <div class="portfolio-image">
-                        <img alt="" src="img/products/telem1.png" class="primary-image" style="border-radius: 1%;"/>
+                        <img alt="EPABX and Intercom Products" src="img/products/EPABX-Intercom.png" class="primary-image" style="border-radius: 1%;"/>
                     </div>
                 </div>
                 <br><br><div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
@@ -345,14 +340,14 @@ h2{
                             <ul>
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li> CCL 206S EPABX System Intercom System (CLI + Welcome Message)</li>
                                 <span style="float:left;"><i class="fa fa-check"></i></span><li> CCL 848S EPABX System/Intercom System with (CLI + Welcome Message)</li>
-                               
+
                             </ul>
                         </div>
 						</div>
                     </div>-->
 					</div>
                 </div>
-				
+
             </div>
         </div>
     </div>
@@ -360,26 +355,26 @@ h2{
 	<div class="single-portfolio-page-area">
         <div class="container">
             <div class="row">
-               
+
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <div class="single-portfolio-content-area">
                      <br> <h3>Telephones</h3>
                         <div class="content">
-                            <p style="text-align:justify;"> A telephone converts sound, typically and most efficiently the human voice, into electronic signals that are transmitted via cables and other communication channels to another telephone which reproduces the sound to the receiving user.</p></div>
-						
+                            <p style="text-align:justify;">In todays world everything is virtual and every household needs and has multiple lines for calling over the telphone. A telephone converts sound, typically and most efficiently the human voice, into electronic signals that are transmitted via cables and other communication channels to another telephone which reproduces the sound to the receiving user. We provide you with products for all needs of your calling be it a voice or video.</p></div>
+
 					</div>
                 </div>
 				<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
-                    <div class="portfolio-image">
-                        <img alt="" src="img/products/tele1.png" class="primary-image" style="border-radius: 1%;"/>
+                    <div class="portfolio-image" style="text-align: center;">
+                        <img alt="Telecom Products and Services" src="img/products/telephone.png" class="primary-image" style="border-radius: 1%;width: 70%;"/>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-	
+
 	<br><br>
-	
+
     <!--  Single Portfolio Page Section Area End Here -->
 
 <?php include 'footer.php'; ?>

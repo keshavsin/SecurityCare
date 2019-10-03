@@ -242,7 +242,7 @@ h2{
         <div class="container">
 			 <div class="section-styling-area">
                         <h2>Our Strengths</h2>
-                        <p><img src="img/img1-1.png" alt="img"></p>
+                        <p><img src="img/img1-1.jpg" alt="img"></p>
                     </div>
             <div class="row">
                 <div class="home2-code-feature-area service2-custom-code" style="padding:0px;">

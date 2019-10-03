@@ -344,7 +344,7 @@ if($_POST)
     <div class="container">
        <div class="section-styling-area">
                         <h2>Industries We Serve</h2>
-                        <p><img src="img/img1-1.png" alt="img"></p>
+                        <p><img src="img/img1-1.jpg" alt="img"></p>
                     </div>
       <div class="row">
         <div class="solution-box">

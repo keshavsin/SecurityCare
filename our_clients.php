@@ -8,7 +8,7 @@
                     <a href="security-camera-best-brands.php"><img src="img/cp plus cameras.png" alt="cp plus cameras"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="security-camera-best-brands.php"><img src="img/matrix-telecom.png" alt="matrix telecom products"></a>
+                    <a href="security-camera-best-brands.php"><img src="img/matrix-telecom-services.png" alt="matrix telecom products"></a>
                 </div>
                 <div class="single-logo">
                     <a href="security-camera-best-brands.php"><img src="img/panasonic-surveillance.png" alt="panasonic hitech surveillance"></a>
